@@ -1,0 +1,25 @@
+icd_id,icd_cde,icd_revs_num,icd_typ_cde,icd_shrt_des,icd_lng_des,icd_strt_dte,icd_end_dte
+112675,0QN83ZZ,10,P,"Release Right Femoral Shaft, Percutaneous Approach","Release Right Femoral Shaft, Percutaneous Approach",2011-11-08,9999-12-31
+112676,0QN84ZZ,10,P,"Release Right Femoral Shaft, Perc Endo Approach","Release Right Femoral Shaft, Percutaneous Endoscopic Approach",2011-11-08,9999-12-31
+112677,0QN90ZZ,10,P,"Release Left Femoral Shaft, Open Approach","Release Left Femoral Shaft, Open Approach",2011-11-08,9999-12-31
+112678,0QN93ZZ,10,P,"Release Left Femoral Shaft, Percutaneous Approach","Release Left Femoral Shaft, Percutaneous Approach",2011-11-08,9999-12-31
+112679,0QN94ZZ,10,P,"Release Left Femoral Shaft, Percutaneous Endoscopic Approach","Release Left Femoral Shaft, Percutaneous Endoscopic Approach",2011-11-08,9999-12-31
+113148,0QPBX4Z,10,P,"Removal of Int Fix from R Low Femur, Extern Approach","Removal of Internal Fixation Device from Right Lower Femur, External Approach",2011-11-08,9999-12-31
+113149,0QPBX5Z,10,P,"Removal of Ext Fix from R Low Femur, Extern Approach","Removal of External Fixation Device from Right Lower Femur, External Approach",2011-11-08,9999-12-31
+113036,0QPB0JZ,10,P,"Removal of Synth Sub from R Low Femur, Open Approach","Removal of Synthetic Substitute from Right Lower Femur, Open Approach",2011-11-08,9999-12-31
+113037,0QPB0KZ,10,P,"Removal of Nonaut Sub from R Low Femur, Open Approach","Removal of Nonautologous Tissue Substitute from Right Lower Femur, Open Approach",2011-11-08,9999-12-31
+113032,0QPB04Z,10,P,"Removal of Int Fix from R Low Femur, Open Approach","Removal of Internal Fixation Device from Right Lower Femur, Open Approach",2011-11-08,9999-12-31
+113033,0QPB05Z,10,P,"Removal of Ext Fix from R Low Femur, Open Approach","Removal of External Fixation Device from Right Lower Femur, Open Approach",2011-11-08,9999-12-31
+113034,0QPB06Z,10,P,"Removal of Intramed Fix from R Low Femur, Open Approach","Removal of Intramedullary Fixation Device from Right Lower Femur, Open Approach",2011-11-08,9999-12-31
+113035,0QPB07Z,10,P,"Removal of Autol Sub from R Low Femur, Open Approach","Removal of Autologous Tissue Substitute from Right Lower Femur, Open Approach",2011-11-08,9999-12-31
+113042,0QPB3JZ,10,P,"Removal of Synth Sub from R Low Femur, Perc Approach","Removal of Synthetic Substitute from Right Lower Femur, Percutaneous Approach",2011-11-08,9999-12-31
+113043,0QPB3KZ,10,P,"Removal of Nonaut Sub from R Low Femur, Perc Approach","Removal of Nonautologous Tissue Substitute from Right Lower Femur, Percutaneous Approach",2011-11-08,9999-12-31
+113038,0QPB34Z,10,P,"Removal of Int Fix from R Low Femur, Perc Approach","Removal of Internal Fixation Device from Right Lower Femur, Percutaneous Approach",2011-11-08,9999-12-31
+113039,0QPB35Z,10,P,"Removal of Ext Fix from R Low Femur, Perc Approach","Removal of External Fixation Device from Right Lower Femur, Percutaneous Approach",2011-11-08,9999-12-31
+113040,0QPB36Z,10,P,"Removal of Intramed Fix from R Low Femur, Perc Approach","Removal of Intramedullary Fixation Device from Right Lower Femur, Percutaneous Approach",2011-11-08,9999-12-31
+113041,0QPB37Z,10,P,"Removal of Autol Sub from R Low Femur, Perc Approach","Removal of Autologous Tissue Substitute from Right Lower Femur, Percutaneous Approach",2011-11-08,9999-12-31
+113048,0QPB4JZ,10,P,"Removal of Synth Sub from R Low Femur, Perc Endo Approach","Removal of Synthetic Substitute from Right Lower Femur, Percutaneous Endoscopic Approach",2011-11-08,9999-12-31
+113049,0QPB4KZ,10,P,"Removal of Nonaut Sub from R Low Femur, Perc Endo Approach","Removal of Nonautologous Tissue Substitute from Right Lower Femur, Percutaneous Endoscopic Approach",2011-11-08,9999-12-31
+113044,0QPB44Z,10,P,"Removal of Int Fix from R Low Femur, Perc Endo Approach","Removal of Internal Fixation Device from Right Lower Femur, Percutaneous Endoscopic Approach",2011-11-08,9999-12-31
+113045,0QPB45Z,10,P,"Removal of Ext Fix from R Low Femur, Perc Endo Approach","Removal of External Fixation Device from Right Lower Femur, Percutaneous Endoscopic Approach",2011-11-08,9999-12-31
+113046,0QPB46Z,10,P,"Removal of Intramed Fix from R Low Femur, Perc Endo Approach","Removal of Intramedullary Fixation Device from Right Lower Femur, Percutaneous Endoscopic Approach",2011-11-08,9999-12-31
