@@ -1,4 +1,4 @@
-package examples.groovy.windows
+package examples.groovy.windows.stuff
 
 class WindowsCmds {
 

@@ -46,7 +46,10 @@ public class JavaFloatingPointMath {
 		BigDecimal y1 = new BigDecimal("1");
 		BigDecimal y3 = new BigDecimal("2");
 	
-		assert interpolation(x1, x2, x3, y1, y3).equals(1.5);
+		BigDecimal bd = interpolation(x1, x2, x3, y1, y3);
+		if (bd.equals(new BigDecimal(1.5))){
+			System.out.println("Success!!!");
+		}
 	}
 	
 	public BigDecimal interpolation(BigDecimal x1, BigDecimal x2, BigDecimal x3, BigDecimal y1, BigDecimal y3) {
