@@ -16,10 +16,10 @@
 
 package examples.groovy.basics
 
-import org.codehaus.groovy.runtime.ComposedClosure
 
 /**
  * Contains code examples for basic groovy capabilities.
+ * This is another comment.  Adding to check commit and move up to gitbub.
  * 
  * @author jmcgill2
  *
